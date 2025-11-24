@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>ISOFT2-B1</groupId>
+  <artifactId>Cliente</artifactId>
+  <version>0.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Cliente</name>
+  <!-- FIXME change it to the project's website -->
+  <url>http://www.example.com</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.release>17</maven.compiler.release>
+  </properties>
+  <modules>
+  	<module>Componente01</module>
+  	<module>Componente02</module>
+  	<module>Componente03</module>
+  	<module>Componente04</module>
+  	<module>Componente05</module>
+  	<module>Componente06</module>
+  	<module>Componente07</module>
+  	<module>Componente08</module>
+  	<module>Componente09</module>
+  	<module>Componente10</module>
+  </modules>
+</project>
