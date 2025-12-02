@@ -1,4 +1,4 @@
-package Dominio;
+package org.Componente01.Dominio;
 
 public class ClienteAuthController {
 
