@@ -1,6 +1,6 @@
-package Persistencia;
+package org.Componente01.Persistencia;
 
-import Dominio.*;
+import org.Componente01.Dominio.Usuario;
 
 public class SSO_UCLM_Cliente {
 
