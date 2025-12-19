@@ -5,7 +5,7 @@
 
   <groupId>ISOFT2-B1</groupId>
   <artifactId>Cliente</artifactId>
-  <version>0.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <name>Cliente</name>
   <!-- FIXME change it to the project's website -->
